@@ -21,7 +21,7 @@ width:300px;
 height:150px;
 background-color:royalblue;
 margin:10px;
-border-radius:10px;
+border-radius:50%;
 display:flex;
 justify-content: center;
 align-items: center;
